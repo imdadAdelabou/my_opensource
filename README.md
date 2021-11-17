@@ -14,3 +14,8 @@
 >> Xender.eth is a mobile application that allows its user to send and receive ether on any wallet. <br><br>**Xender.eth** is not only a mobile ether exchange application but also a platform that connects an ether buyer to several sellers.<br><br> **Xender.eth** also offers a simple and user-friendly interface to allow ether sellers to easily and quickly manage the sale of their ether stock so no more WhatsApp method. Opt for a platform dedicated to your needs.
 
 ## Technologies and Tools
+<ul>
+  <li>Solidity</li>
+  <li>Flutter</li>
+  <li>Nodejs</li>
+ </ul>
